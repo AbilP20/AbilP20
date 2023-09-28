@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AbilP20/AbilP20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Abil</h1>
 <h3 align="center">An AI Enthusiast</h3>
