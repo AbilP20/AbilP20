@@ -23,15 +23,17 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate with the **Developers in the Community.**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Python, ML**
 
 - 📫 How to reach me **abilpt@gmail.com**
+
+- ⚡ Fun fact: This just happened
 
 <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ankush-kumar-singh24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-kumar-singh24" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankush-kumar-singh24" height="30" width="40" /></a>
 </p>
 
 <hr>
